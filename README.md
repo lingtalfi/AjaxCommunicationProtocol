@@ -87,6 +87,10 @@ $.ajax({
 History Log
 =============
 
+- 1.1.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.1.0 -- 2019-09-24
 
     - update protocol, now accepts GET parameters
